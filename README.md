@@ -119,3 +119,5 @@ Advanced courses that require prior knowledge in machine learning and AI.
 * [Deep Learning: Alchemy or Science? (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP)
 
 * [Theoretical Machine Learning Lecture Series (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
+
+* [Fundamentals (SVD, Regression, PCA)](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
